@@ -1,5 +1,5 @@
 # auto_versio_diretorio
-. json.dump() vs json.dumps()
+1. json.dump() vs json.dumps()
 (Serve para salvar ou transformar algo em JSON)
 
 json.dump(): Salva o dicionário do Python direto para dentro de um arquivo .json físico.
