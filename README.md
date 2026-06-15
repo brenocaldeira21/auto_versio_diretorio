@@ -1,0 +1,1 @@
+# auto_versio_diretorio
